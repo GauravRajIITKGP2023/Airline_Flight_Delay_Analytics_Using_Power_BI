@@ -99,21 +99,5 @@ Using **Power BI**, we’ll transform the raw data into a user-friendly, interac
 ## Conclusion
 The Flight Delay Analysis project provides a detailed understanding of flight delay patterns, offering actionable insights for decision-making in airline selection and operational improvements. The Power BI dashboard serves as a powerful tool for visualizing and interpreting flight data.
 
-## Repository Structure
-- `Data/`: Contains the raw and cleaned datasets.
-- `PowerBI/`: Includes the Power BI .pbix file with the final dashboard.
-- `Documentation/`: Contains additional project documentation, including the project report and presentation.
-
-## How to Run
-1. Download the repository.
-2. Open the Power BI file in the `PowerBI/` folder.
-3. Explore the data and interact with the dashboard to gain insights.
 
 
-
-## Repository Structure
-
-- **/data**: Contains the raw and transformed datasets.
-- **/reports**: Includes the Power BI reports and dashboard files.
-- **/scripts**: Holds any scripts or code used for data transformation.
-- **/docs**: Contains documentation, including this README.
